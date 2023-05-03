@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+Temp/UnityLockfile
+Temp/FSTimeGet-118ab067bd7e9bf4d877aceb75920c2e
+Temp/FSTimeGet-753e4e32a2a08bf47855ed3cf52f34ed
+Temp/FSTimeGet-a5b1db10f2473434d848311fa55d5f5d
